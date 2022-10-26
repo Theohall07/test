@@ -1,0 +1,16 @@
+<doctype>
+  <head>
+    <titl>Mate matik kalkylator</titl>
+  </head>
+  <body>
+    <div class="container">
+      <h1> dmasdkmadma</h1>
+      <form action="https://formsubmit.co/thoe.aoa.hall@gmail.com" method="POST">
+        <input type="text" name="name" placeholder="Full Name" required>
+        <button type="submit">Send</button>
+
+      </form>
+    </div>
+  </body>
+  
+</doctype>
